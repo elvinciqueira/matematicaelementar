@@ -1,0 +1,11 @@
+{
+  "name": "matematicaelementar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:elvinciqueira/matematicaelementar.git",
+  "author": "elvinciqueira <elvinciqueira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
